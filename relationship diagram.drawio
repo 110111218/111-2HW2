@@ -7,16 +7,16 @@
                 <mxCell id="4" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="Object" style="html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="boss" style="html=1;" vertex="1" parent="1">
                     <mxGeometry x="150" y="300" width="110" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Object" style="html=1;" vertex="1" parent="1">
+                <mxCell id="3" value="subordinate" style="html=1;" vertex="1" parent="1">
                     <mxGeometry x="450" y="300" width="110" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="" style="triangle;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
                     <mxGeometry x="410" y="280" width="30" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                <mxCell id="6" value="work" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="320" y="280" width="50" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
